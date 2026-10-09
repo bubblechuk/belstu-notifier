@@ -14,7 +14,7 @@ CHAT_ID - чат в который бот будет отправлять опо
 1. ``` git clone https://github.com/bubblechuk/belstu-notifier.git && cd belstu-notifier ```
 2. Делаем .env файл
 3. ``` pip install -r requirements.txt ```
-4. ```python script.js```
+4. ```python script.py```
 5. Хостим где угодно как угодно
 ### Пример .env
 ```
